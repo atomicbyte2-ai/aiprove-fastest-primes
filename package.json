@@ -1,0 +1,1 @@
+{"name":"aiprove-fastest-primes","version":"1.0.0","scripts":{"start":"bash run.sh","test":"bash test.sh"},"license":"CC0-1.0"}
